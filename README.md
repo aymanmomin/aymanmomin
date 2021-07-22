@@ -20,18 +20,31 @@ I am a person with full determination towards my future goals ❗ ❗. A quick l
 I love taking on challenges in various technological aspects in areas of computer science 🤘. I have been learning and programming for more than five years 😎. Knowledge 📚, positivity :bowtie:, and creativity 🎉 drive me and my actions! 😵 😵
 
 I’m Ayman
+
 👉 17-year-old
+
 👉 Computer science prodigy, who firmly believes that "to change something, build a new model that makes the existing model obsolete" ~ Buckminster Fuller 💥.
-👉 National swimmer 🏊‍♂️ turned chess player ♟ turned programmer 👨‍💻 .
+
+👉 National swimmer 🏊‍♂️ turned chess player ♟ turned programmer 👨‍💻.
+
 👉 Love to explore various technology 💻.
+
 👉 Professional Java and Web developer 👨‍💻.
+
 👉 Aspiring Data Scientist and an Entrepreneur 👨‍🔬.
+
 👉 Determinant towards my future goals 💯.
+
 👉 Well known for being passionate and committed to my work 
+
 👉 Quick learner 📚, Problem-solver ⚡, Critical thinker 🤔, Communicator 🗣, and Leader 💪. 
+
 👉 Also interested in UI and graphic design, video editing, drama, event hosting and management, stock market, public speaking, MUNs, ditigal marketing, and community services.
 
+
+
 My Projects:
+
 **1. Boxestock: 🙏 🙏**
 May 2021– Present
 
@@ -51,8 +64,13 @@ Online Podar Model United Nation which was held online in 2021 due to the ongoin
 Unfortunately you won't be able to see the code of my projects because my repositories are private. 😉
 
 Feel Free to connect with me on my socials 🤝
+
 🌟 [Instagram](https://instagram.com/momin.ayman)
+
 🌟 [LinkedIn](https://www.linkedin.com/in/aymanmomin)
+
 🌟 [Website](http://aymanimomin.com)
+
 🌟 [Meme Page](https://www.instagram.com/programmerinjokes/) 
+
 🌟 [Email](mailto:aymanimomin@gmail.com)
