@@ -15,16 +15,9 @@ Here are some ideas to get you started:
 -->
 Hey! I’m _Ayman_ 👋
 
-👉 17-year-old
-👉 Computer science prodigy, who firmly believes that "to change something, build a new model that makes the existing model obsolete" ~ Buckminster Fuller 💥.
-👉 National swimmer 🏊‍♂️ turned chess player ♟ turned programmer 👨‍💻.
-👉 Love to explore various technology 💻.
-👉 Professional Java and Web developer 👨‍💻.
-👉 Aspiring Data Scientist and an Entrepreneur 👨‍🔬.
-👉 Determinant towards my future goals 💯.
-👉 Well known for being passionate and committed to my work
-👉 Quick learner 📚, Problem-solver ⚡, Critical thinker 🤔, Communicator 🗣, and Leader 💪. 
-👉 Also interested in UI and graphic design, video editing, drama, event hosting and management, stock market, public speaking, MUNs, ditigal marketing, and community services.
+17-year-old 👦. A computer science prodigy, who firmly believes that "to change something, build a new model that makes the existing model obsolete" ~ Buckminster Fuller 💥. National swimmer 🏊‍♂️ turned chess player ♟ turned programmer 👨‍💻. Love to explore various technology 💻. Professional Java and Web developer 👨‍💻. Aspiring Data Scientist and an Entrepreneur 👨‍🔬.
+
+Determinant towards my future goals 💯. Well known for being passionate and committed to my work. Quick learner 📚, Problem-solver ⚡, Critical thinker 🤔, Communicator 🗣, and Leader 💪. Also interested in UI and graphic design, video editing, drama, event hosting and management, stock market, public speaking, MUNs, ditigal marketing, and community services.
 
 
 _**My Projects:**_
