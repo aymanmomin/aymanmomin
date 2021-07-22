@@ -23,18 +23,21 @@ Determinant towards my future goals 💯. Well known for being passionate and co
 _**My Projects:**_
 
 **1. Boxestock: 🙏 🙏**
+
 _May 2021– Present_
 
 Boxestok is the ultimate box inventory management and costing system.
 
 
 **2. President of the IT Club 😄 😄**
+
 _Jul 2021 – Aug 2021_
 
 I have been the president of the IT club of my school.
 
 
 **3. IT Head - Podar Modal United Nation 2021 🤘 🤘**
+
 _June 2021 – Augest 2021_
 
 Online Podar Model United Nation which was held online in 2021 due to the ongoing COVID pandemic.
