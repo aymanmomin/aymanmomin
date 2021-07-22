@@ -46,23 +46,14 @@ _June 2021 – Augest 2021_
 
 Online Podar Model United Nation which was held online in 2021 due to the ongoing COVID pandemic.
 
-[block:callout]
-{
-  "type": "info",
-  "title": "Project Links",
-  "body": "Unfortunately you won't be able to see the code of my projects because my repositories are private. 😉"
-}
-[/block]
+
+_**Unfortunately you won't be able to see the code of my projects because my repositories are private.😉**_
 
 
-Feel Free to connect with me on my socials 🤝
+Feel free to connect with me on my socials 🤝
 
 🌟 [Instagram](https://instagram.com/momin.ayman)
-
 🌟 [LinkedIn](https://www.linkedin.com/in/aymanmomin)
-
 🌟 [Website](http://aymanimomin.com)
-
 🌟 [Meme Page](https://www.instagram.com/programmerinjokes/) 
-
 🌟 [Email](mailto:aymanimomin@gmail.com)
