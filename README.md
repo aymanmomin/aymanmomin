@@ -50,6 +50,6 @@ Feel free to connect with me on my socials 🤝
 
 🌟 [Instagram](https://instagram.com/momin.ayman)
 🌟 [LinkedIn](https://www.linkedin.com/in/aymanmomin)
-🌟 [Website](http://aymanimomin.com)
+🌟 [Website](https://galaxylord-aim.github.io/portfolio/#/)
 🌟 [Meme Page](https://www.instagram.com/programmerinjokes/) 
 🌟 [Email](mailto:aymanimomin@gmail.com)
