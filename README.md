@@ -52,11 +52,11 @@ Online Podar Model United Nation which was held online in 2021 due to the ongoin
 
 - 🌱 I’m currently learning **AI/ML using Python**
 
-- 👨‍💻 All of my projects are available at [https://galaxylord-aim.github.io/portfolio/](https://galaxylord-aim.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://aymanmomin.github.io/portfolio/](https://aymanmomin.github.io/portfolio/)
 
 - 💬 Ask me about **Web Development, Desktop Software Development, Data Visualization and Analytics**
 
-- 📫 How to reach me **aymanimomin@gmail.com**
+- 📫 How to reach me **aymanmomin.work@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aymanmomin](https://www.linkedin.com/in/aymanmomin)
 
