@@ -1,7 +1,7 @@
 ![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media.licdn.com/dms/image/C5616AQH1VGG1ZD6UCA/profile-displaybackgroundimage-shrink_350_1400/0/1634261396336?e=1678320000&v=beta&t=FgKUwWoVpJp_cCks-Tfp_gl6072cusuM8ksRg0fFJjE))
 ## Whoami 
 <!--
-**Galaxylord-AIM/Galaxylord-AIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aymanmomin/aymanmomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 17-year-old 👦. A computer science prodigy, who firmly believes that "to change something, build a new model that makes the existing model obsolete" ~ Buckminster Fuller 💥. National swimmer 🏊‍♂️ turned chess player ♟ turned programmer 👨‍💻. Love to explore various technology 💻. Professional Java and Web developer 👨‍💻. Aspiring Data Scientist and an Entrepreneur 👨‍🔬.
+<!-- 19-year-old 👦. A computer science prodigy, who firmly believes that "to change something, build a new model that makes the existing model obsolete" ~ Buckminster Fuller 💥. National swimmer 🏊‍♂️ turned chess player ♟ turned programmer 👨‍💻. Love to explore various technology 💻. Professional Java and Web developer 👨‍💻. Aspiring Data Scientist and an Entrepreneur 👨‍🔬.
 
 Determinant towards my future goals 💯. Well known for being passionate and committed to my work. Quick learner 📚, Problem-solver ⚡, Critical thinker 🤔, Communicator 🗣, and Leader 💪. Also interested in UI and graphic design, video editing, drama, event hosting and management, stock market, public speaking, MUNs, ditigal marketing, and community services.
  -->
