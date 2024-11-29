@@ -9,7 +9,7 @@ Computer Science Student | Data Analyst | Software Developer
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Data Analysis Projects in Finance, Business, Education and Real Estate
 
-### Skills
+### Technical Skills
 
 
 <p align="left">
@@ -24,5 +24,12 @@ Computer Science Student | Data Analyst | Software Developer
 ### Badges
 
 <b>My GitHub Stats</b>
+<!---
+<a href="http://www.github.com/aymanmomin"><img src="https://github-readme-stats.vercel.app/api?username=aymanmomin&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aymanmomin's GitHub stats" /></a>
+<a href="http://www.github.com/aymanmomin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanmomin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+-->
 
-<a href="http://www.github.com/aymanmomin"><img src="https://github-readme-stats.vercel.app/api?username=aymanmomin&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aymanmomin's GitHub stats" /></a><a href="http://www.github.com/aymanmomin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanmomin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/aymanmomin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanmomin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://github.com/aymanmomin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanmomin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+Last Updated: Sept 2023
