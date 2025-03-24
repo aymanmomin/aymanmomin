@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Amazon Ecommerce Network Analysis (Academic Project)**
 
-- 🌱 I’m currently learning **AI Engineering using Data Camps career paths**
+- 🌱 I’m currently learning **[AI Engineering on DataCamp] (https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-data-scientists)**
 
 - 👯 I’m looking to collaborate on **projects related to Data Science**
 
