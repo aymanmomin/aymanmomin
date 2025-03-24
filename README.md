@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, SQL, NumPy, Pandas, R, Tableau, Technology in general**
 
-- 📄 Know about my experiences [Resume.pdf]()
+- 📄 Know about my experiences [Resume](https://github.com/aymanmomin/aymanmomin/blob/main/Ayman%20Momin%20Resume.pdf)
 
 - 📫 How to reach me **[Email](mailto:aymanmomin.work@gmail.com)**
 
