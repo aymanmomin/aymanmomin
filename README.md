@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayman M</h1>
 <h3 align="center">A passionate Computer Science Undergrad pursuing Data Science and AI Engineering.</h3>
 
-- 🔭 I’m currently working on **Amazon Ecommerce Network Analysis (Academic Project)**
+- 🔭 I’m currently working on **100 days of AI Assited Learning Challenge**
 
 - 🌱 I’m currently learning **[AI Engineering on DataCamp] (https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-data-scientists)**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **building strong connections for an internship**
 
-- 👨‍💻 All of my projects are available at [github.com/aymanmomin/](https://github.com/aymanmomin/)
+- 👨‍💻 All of my projects are available at [github.com/aymanmomin/](https://github.com/aymanmomin/tab=repositories)
 
 - 💬 Ask me about **Python, SQL, NumPy, Pandas, R, Tableau, Technology in general**
 
